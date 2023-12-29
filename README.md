@@ -10,7 +10,7 @@ It was observed that when a Windows unprivileged user attempt recheck compliance
 2. execute the newly script file and output the result to a file with random file name and ".out" extension
 3. finally remove output file after the compliance check 
 
-![Fig1](img/Fig1.PNG)
+![Fig1](img/Fig1.png)
 
 
 
@@ -71,4 +71,4 @@ public_run_bat.rbs will execute C:\Users\Public\run.bat
 - 12/7/2023 - No reply from ForeScout. Contact them again.
 - 12/30/2023 - Disclose vulnerability
 
-![Fig2](img/Fig2.PNG)
+![Fig2](img/Fig2.png)
